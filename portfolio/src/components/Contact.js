@@ -1,9 +1,12 @@
 const Contact = () => {
-    return (
-        <div>
-            Contact
-        </div>
-    )
-}
+  return (
+    <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
+      <section>Contact Me</section>
+      <br></br>
+      <div>asetasdg</div>
 
-export default Contact
+    </div>
+  );
+};
+
+export default Contact;
